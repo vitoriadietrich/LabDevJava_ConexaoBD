@@ -1,0 +1,19 @@
+DEVLAB — laboratório de Java, POO, MER, SQL e JDBC
+
+PARA ABRIR:
+1. Abra o arquivo index.html no navegador (Chrome, Edge, Firefox etc.).
+2. Navegue pelas 8 etapas, teste os exercícios e faça o quiz.
+3. O progresso fica salvo localmente neste navegador.
+
+PARA PUBLICAR E TER UM LINK HTTPS COMPARTILHÁVEL:
+1. Descompacte o ZIP.
+2. Entre no painel do Netlify: https://app.netlify.com/drop
+3. Arraste a pasta extraída que contém o arquivo index.html.
+4. Após a publicação, o Netlify mostrará um endereço público HTTPS.
+5. Abra esse endereço e teste no celular antes de compartilhar.
+
+IMPORTANTE:
+- A correção de código é textual e não executa Java.
+- As operações SQL são simulações no navegador, não um banco real.
+- Nenhum aluno precisa colocar credenciais, senhas ou dados pessoais.
+- Para conectar Java ao MySQL real, use o projeto prático do kit anterior.
